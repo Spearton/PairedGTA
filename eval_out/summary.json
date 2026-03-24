@@ -1,0 +1,8 @@
+{
+  "num_samples": 101,
+  "pixel_agreement_mean": 0.6539436717434685,
+  "self_mIoU_mean": 0.24082250148057938,
+  "conf_drop_mean": 0.043697696511108094,
+  "entropy_increase_mean": 0.1241297259336651,
+  "global_self_mIoU_from_confusion": 0.3252122700214386
+}

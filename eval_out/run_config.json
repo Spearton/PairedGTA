@@ -1,0 +1,9 @@
+{
+  "data_dir": "/home/ace/Downloads/Dataset",
+  "mode": "nr",
+  "batch_size": 2,
+  "num_workers": 2,
+  "device": "cuda",
+  "save_dir": "eval_out",
+  "model_name": "nvidia/segformer-b5-finetuned-cityscapes-1024-1024"
+}
