@@ -1,0 +1,34 @@
+# Benchmark configuration for 02_run_benchmark_from_yaml.ipynb
+
+seed: 0
+
+# Paths
+data_dir: /path/to/your/paired_dataset
+save_dir: ./out_cityscapes_final_notebook
+
+# Runtime
+device: cuda
+batch_size: 2
+num_workers: 4
+
+# Benchmark settings
+conf_threshold: 0.6
+mass_coverage: 0.99
+plot_drop_classname: train
+plot_scenarios:
+  - Day-RAIN
+  - Sunset-FOGGY
+  - Night-RAIN
+
+# Qualitative visualization
+n_qual_samples: 6
+qual_segformer_id: nvidia/segformer-b5-finetuned-cityscapes-1024-1024
+qual_model_name: SegFormer-B5
+
+# Enable/disable model families
+enable_mask2former: true
+models:
+  segformer_b0: true
+  segformer_b2: true
+  segformer_b5: true
+  mask2former: true
