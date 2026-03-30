@@ -1,2 +1,0 @@
-sec_illumination,num_samples,pixel_agreement_mean,self_mIoU_mean,self_mIoU_from_confusion,conf_drop_mean,entropy_increase_mean
-Night,101,0.6539436717434685,0.24082250148057938,0.3252122700214386,0.043697696511108094,0.1241297259336651
