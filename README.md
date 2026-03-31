@@ -26,7 +26,6 @@ Unlike standard evaluation, we measure **prediction consistency** rather than ab
 ---
 
 ## 📁 Repository Structure
-
 .
 ├── notebooks/
 │   ├── plot_benchmarks_notebook.ipynb
