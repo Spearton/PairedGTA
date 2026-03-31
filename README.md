@@ -1,5 +1,118 @@
-- **out_cityscapes_final**: e' la cartella di risultati finali, considera questa, trovi tutte le tabelle e i plot del paper.
-- **V2_bench_NoDeeplab.py** : e' lo script finale per il benchmark, basta cambiare il pecorso della cartella dove si trova il dataset all'inizio dello sciprt e lanciarlo o da Ide o da terminale, non serve settare nessun parametro, fa in automatico tutti i modelli e i plot che si troveranno nella cartella "**out_cityscapes_final**" (quella descritta sopra) (Questo bench e'senza Deeplab)
-- **validate_on_cityscapes_val.py** : e'lo script per validare tutti i modelli sul dataset cityscapes, basta cambiare il percorso dove e' stato scaricato il dataset cityscapes, all'inizio dello script e lanciarlo, non servono parametri. (stampa i risultati nella cartella "**cityscapes_val_check**").
-- Ignorare gli altri file, sono script vecchi o di backup.
-  
+# Robust Semantic Segmentation under Adverse Conditions
+
+This repository contains the official implementation of the benchmark introduced in our paper:
+
+> **[Paper Title Placeholder]**  
+> *Conference Title Submission*
+
+---
+
+## 🚀 Overview
+
+We propose a benchmark to evaluate **robustness of semantic segmentation models under adverse conditions** (e.g., rain, fog, night) using paired images.
+
+Unlike standard evaluation, we measure **prediction consistency** rather than absolute accuracy, focusing on how stable model predictions remain across environmental changes.
+
+---
+
+## 📊 Key Features
+
+- Paired-image evaluation (clean vs adverse)
+- Pixel-wise **masked agreement metric**
+- Class-wise **retention analysis**
+- Scenario-based evaluation (e.g., *Day-Rain*, *Sunset-Foggy*)
+- Qualitative analysis of failure cases
+
+---
+
+## 📁 Repository Structure
+
+.
+├── notebooks/
+│   ├── plot_benchmarks_notebook.ipynb
+│   ├── run_benchmarks_notebook.ipynb
+│   └── benchmark_config.yaml
+│
+├── out_cityscapes_final/
+│   ├── *.csv
+│   ├── plots/
+│   ├── qualitative/
+│   └── notebook_plots/
+│       └── plots/
+│
+└── README.md
+
+---
+
+## ⚙️ Installation
+
+Create a Python environment:
+
+conda create -n segbench python=3.9  
+conda activate segbench  
+
+Install dependencies:
+
+pip install torch torchvision  
+pip install transformers huggingface_hub  
+pip install matplotlib pandas tqdm scipy pyyaml  
+
+---
+
+## 📦 Dataset
+
+Expected structure:
+
+Dataset/
+├── Day/
+├── Sunset/
+└── Night/
+
+---
+
+## ▶️ Running the Benchmark and Plots
+
+Use:
+
+notebooks/run_benchmarks_notebook.ipynb
+notebooks/plot_benchmarks_notebook.ipynb
+
+---
+
+## 📈 Metrics
+
+Masked Pixel Agreement:
+
+Agreement = (1 / |A|) * Σ 1[p_clean == p_adv]
+
+Class Retention:
+
+Retention_k = (# pixels preserved) / (# pixels in clean prediction)
+
+---
+
+## 📊 Outputs
+
+CSV:
+- results_pixel_agreement_per_image.csv
+- results_pixel_agreement_by_condition.csv
+- results_class_retention_by_condition.csv
+
+Plots (PDF):
+├── out_cityscapes_final/
+│   ├── plots/
+│   ├── notebook_plots/
+
+---
+
+## 🧠 Notes for Reviewers
+
+- All plots are exported in **PDF format**
+- No ground truth required
+- Focus on prediction consistency
+
+---
+
+## 📜 License
+
+Sant'Anna
