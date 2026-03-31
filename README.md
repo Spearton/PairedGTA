@@ -31,15 +31,15 @@ Unlike standard evaluation, we measure **prediction consistency** rather than ab
 	│   ├── plot_benchmarks_notebook.ipynb
 	│   ├── run_benchmarks_notebook.ipynb
 	│   └── benchmark_config.yaml
-│
-├── out_cityscapes_final/
-│   ├── *.csv
-│   ├── plots/
-│   ├── qualitative/
-│   └── notebook_plots/
-│       └── plots/
-│
-└── README.md
+	│
+	├── out_cityscapes_final/
+	│   ├── *.csv
+	│   ├── plots/
+	│   ├── qualitative/
+	│   └── notebook_plots/
+	│       └── plots/
+	│
+	└── README.md
 
 ---
 
@@ -62,10 +62,10 @@ pip install matplotlib pandas tqdm scipy pyyaml
 
 Expected structure:
 
-Dataset/
-├── Day/
-├── Sunset/
-└── Night/
+	Dataset/
+	├── Day/
+	├── Sunset/
+	└── Night/
 
 ---
 
@@ -73,8 +73,8 @@ Dataset/
 
 Use:
 
-notebooks/run_benchmarks_notebook.ipynb
-notebooks/plot_benchmarks_notebook.ipynb
+	notebooks/run_benchmarks_notebook.ipynb
+	notebooks/plot_benchmarks_notebook.ipynb
 
 ---
 
@@ -98,9 +98,10 @@ CSV:
 - results_class_retention_by_condition.csv
 
 Plots (PDF):
-├── out_cityscapes_final/
-│   ├── plots/
-│   ├── notebook_plots/
+-	out_cityscapes_final/
+	-	plots/
+	-	notebook_plots/
+		
 
 ---
 
