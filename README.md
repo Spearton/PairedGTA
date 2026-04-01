@@ -30,6 +30,8 @@ Unlike standard evaluation, we measure **prediction consistency** rather than ab
 	├── notebooks/
 	│   ├── plot_benchmarks_notebook.ipynb
 	│   ├── run_benchmarks_notebook.ipynb
+	│   ├── extract_single_segmentation.ipynb
+	│   ├── single_segmentation_config.yaml
 	│   └── benchmark_config.yaml
 	│
 	├── out_cityscapes_final/
@@ -75,6 +77,7 @@ Use:
 
 	notebooks/run_benchmarks_notebook.ipynb
 	notebooks/plot_benchmarks_notebook.ipynb
+	notebooks/extract_single_segmentation.ipynb
 
 ---
 
