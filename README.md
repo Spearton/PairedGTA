@@ -29,6 +29,7 @@ Unlike standard evaluation, we measure **prediction consistency** rather than ab
 	.
 	├── notebooks/
 	│   ├── plot_benchmarks_notebook.ipynb
+	│   ├── plot_mirror_ranking_from_csv.ipynb
 	│   ├── run_benchmarks_notebook.ipynb
 	│   ├── extract_single_segmentation.ipynb
 	│   ├── single_segmentation_config.yaml
@@ -40,6 +41,13 @@ Unlike standard evaluation, we measure **prediction consistency** rather than ab
 	│   ├── qualitative/
 	│   └── notebook_plots/
 	│       └── plots/
+	│  
+	├── ranking_consistency_results/
+	│   ├── framewise_target_class_counts.csv
+	│   ├── framewise_target_class_spearman.csv
+	│   └── plots/
+	│		└── mirror_ranking_car_4panels.pdf
+	│		└── mirror_ranking_person_4panels.pdf
 	│
 	└── README.md
 
@@ -78,6 +86,7 @@ Use:
 	notebooks/run_benchmarks_notebook.ipynb
 	notebooks/plot_benchmarks_notebook.ipynb
 	notebooks/extract_single_segmentation.ipynb
+	notebooks/plot_mirror_ranking_from_csv.ipynb
 
 ---
 
@@ -99,12 +108,16 @@ CSV:
 - results_pixel_agreement_per_image.csv
 - results_pixel_agreement_by_condition.csv
 - results_class_retention_by_condition.csv
+- framewise_target_class_counts.csv
+- framewise_target_class_spearman.csv
 
 Plots (PDF):
 -	out_cityscapes_final/
 	-	plots/
 	-	notebook_plots/
-		
+   
+-	ranking_consistency_results/
+	-	plots/
 
 ---
 
