@@ -30,17 +30,16 @@ Unlike standard evaluation, we measure **prediction consistency** rather than ab
 	├── notebooks/
 	│   ├── plot_benchmarks_notebook.ipynb
 	│   ├── plot_mirror_ranking_from_csv.ipynb
-	│   ├── run_benchmarks_notebook.ipynb
+	│   ├── run_benchmarks_notebook_modular.ipynb
 	│   ├── extract_single_segmentation.ipynb
 	│   ├── single_segmentation_config.yaml
+	│   ├── benchmark_models.py
 	│   └── benchmark_config.yaml
 	│
 	├── out_cityscapes_final/
 	│   ├── *.csv
 	│   ├── plots/
 	│   ├── qualitative/
-	│   └── notebook_plots/
-	│       └── plots/
 	│  
 	├── ranking_consistency_results/
 	│   ├── framewise_target_class_counts.csv
@@ -83,7 +82,7 @@ Expected structure:
 
 Use:
 
-	notebooks/run_benchmarks_notebook.ipynb
+	notebooks/run_benchmarks_notebook_modular.ipynb
 	notebooks/plot_benchmarks_notebook.ipynb
 	notebooks/extract_single_segmentation.ipynb
 	notebooks/plot_mirror_ranking_from_csv.ipynb
@@ -113,8 +112,7 @@ CSV:
 
 Plots (PDF):
 -	out_cityscapes_final/
-	-	plots/
-	-	notebook_plots/
+	-	plots/	
    
 -	ranking_consistency_results/
 	-	plots/
@@ -126,6 +124,7 @@ Plots (PDF):
 - All plots are exported in **PDF format**
 - No ground truth required
 - Focus on prediction consistency
+- In notebooks directory you can find "benchmark_models.py" where you can add/remove models to be used in the benchmark script
 
 ---
 
