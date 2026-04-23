@@ -1,7 +1,4 @@
-# Benchmark configuration for run_benchmarks_notebook_modular.ipynb
-
 seed: 0
-# Paths
 data_dir: /home/ace/Downloads/Dataset
 save_dir: ./out_cityscapes_final_notebook
 device: cuda
@@ -20,8 +17,7 @@ plot_drop_classname: train
 # Qualitative visualization model
 qual_model_key: segformer_b5
 
-# New modular model configuration
-# Add or remove models here without touching the benchmark notebook.
+#Modular model configuration.
 models:
   enabled:
     - segformer_b0
@@ -30,3 +26,16 @@ models:
     - mask2former_swin_s
     - mask2former_swin_l
 
+    - key: deeplabv3plus_r101_local
+      checkpoint_path: /home/ace/Downloads/models_weights/best_deeplabv3plus_resnet101_cityscapes_os16.pth
+      input_norm: none
+
+    - key: pidnet_m_local
+      checkpoint_path: /home/ace/Downloads/models_weights/PIDNet_M_Cityscapes_val.pt
+      input_norm: imagenet
+
+    - key: ddrnet23_official
+      checkpoint_path: /home/ace/Downloads/models_weights/ddrnet23_cityscapes.pth
+      input_norm: imagenet
+
+   
