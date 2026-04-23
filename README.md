@@ -30,7 +30,7 @@ Unlike standard evaluation, we measure **prediction consistency** rather than ab
 	├── notebooks/
 	│   ├── plot_benchmarks_notebook.ipynb
 	│   ├── plot_mirror_ranking_from_csv.ipynb
-	│   ├── run_benchmarks_notebook_modular.ipynb
+	│   ├── run_benchmarks_notebook_local_ckpts.ipynb
 	│   ├── extract_single_segmentation.ipynb
 	│   ├── single_segmentation_config.yaml
 	│   ├── benchmark_models.py
