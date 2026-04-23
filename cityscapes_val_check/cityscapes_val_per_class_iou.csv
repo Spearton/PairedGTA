@@ -1,153 +1,58 @@
 model,class_id,class_name,IoU,valid
-SegFormer-B0,0,road,0.9627070426940918,True
-SegFormer-B0,1,sidewalk,0.7360639572143555,True
-SegFormer-B0,2,building,0.8620243072509766,True
-SegFormer-B0,3,wall,0.43797361850738525,True
-SegFormer-B0,4,fence,0.3771774470806122,True
-SegFormer-B0,5,pole,0.3130376636981964,True
-SegFormer-B0,6,traffic light,0.34942102432250977,True
-SegFormer-B0,7,traffic sign,0.4740152955055237,True
-SegFormer-B0,8,vegetation,0.871232807636261,True
-SegFormer-B0,9,terrain,0.5719218254089355,True
-SegFormer-B0,10,sky,0.9134913682937622,True
-SegFormer-B0,11,person,0.5406324863433838,True
-SegFormer-B0,12,rider,0.2516898810863495,True
-SegFormer-B0,13,car,0.869924783706665,True
-SegFormer-B0,14,truck,0.5458283424377441,True
-SegFormer-B0,15,bus,0.590413510799408,True
-SegFormer-B0,16,train,0.5091612935066223,True
-SegFormer-B0,17,motorcycle,0.3329903185367584,True
-SegFormer-B0,18,bicycle,0.5534461140632629,True
-SegFormer-B2,0,road,0.9688479900360107,True
-SegFormer-B2,1,sidewalk,0.7788106799125671,True
-SegFormer-B2,2,building,0.8776354193687439,True
-SegFormer-B2,3,wall,0.533023476600647,True
-SegFormer-B2,4,fence,0.4567054510116577,True
-SegFormer-B2,5,pole,0.38914260268211365,True
-SegFormer-B2,6,traffic light,0.46758684515953064,True
-SegFormer-B2,7,traffic sign,0.5909990072250366,True
-SegFormer-B2,8,vegetation,0.8752807378768921,True
-SegFormer-B2,9,terrain,0.5997958779335022,True
-SegFormer-B2,10,sky,0.9004063606262207,True
-SegFormer-B2,11,person,0.6045379638671875,True
-SegFormer-B2,12,rider,0.3633425533771515,True
-SegFormer-B2,13,car,0.8974092602729797,True
-SegFormer-B2,14,truck,0.7001408338546753,True
-SegFormer-B2,15,bus,0.7717810869216919,True
-SegFormer-B2,16,train,0.6739440560340881,True
-SegFormer-B2,17,motorcycle,0.35773149132728577,True
-SegFormer-B2,18,bicycle,0.6053116321563721,True
-SegFormer-B5,0,road,0.9821289777755737,True
-SegFormer-B5,1,sidewalk,0.8581109046936035,True
-SegFormer-B5,2,building,0.9192129969596863,True
-SegFormer-B5,3,wall,0.6065680980682373,True
-SegFormer-B5,4,fence,0.6017739772796631,True
-SegFormer-B5,5,pole,0.5692678689956665,True
-SegFormer-B5,6,traffic light,0.6557676792144775,True
-SegFormer-B5,7,traffic sign,0.759329080581665,True
-SegFormer-B5,8,vegetation,0.9180366396903992,True
-SegFormer-B5,9,terrain,0.6692250370979309,True
-SegFormer-B5,10,sky,0.9462963938713074,True
-SegFormer-B5,11,person,0.7637627720832825,True
-SegFormer-B5,12,rider,0.5437930822372437,True
-SegFormer-B5,13,car,0.9403825998306274,True
-SegFormer-B5,14,truck,0.8488759398460388,True
-SegFormer-B5,15,bus,0.8898444175720215,True
-SegFormer-B5,16,train,0.7797574400901794,True
-SegFormer-B5,17,motorcycle,0.579656183719635,True
-SegFormer-B5,18,bicycle,0.7318218946456909,True
-DeepLabV3-R50 (none),0,road,0.9129055142402649,True
-DeepLabV3-R50 (none),1,sidewalk,0.5346279144287109,True
-DeepLabV3-R50 (none),2,building,0.7890300154685974,True
-DeepLabV3-R50 (none),3,wall,0.10442613065242767,True
-DeepLabV3-R50 (none),4,fence,0.019674062728881836,True
-DeepLabV3-R50 (none),5,pole,0.35137590765953064,True
-DeepLabV3-R50 (none),6,traffic light,0.0729084312915802,True
-DeepLabV3-R50 (none),7,traffic sign,0.4676782190799713,True
-DeepLabV3-R50 (none),8,vegetation,0.8570786118507385,True
-DeepLabV3-R50 (none),9,terrain,0.29639261960983276,True
-DeepLabV3-R50 (none),10,sky,0.8048533201217651,True
-DeepLabV3-R50 (none),11,person,0.5886572003364563,True
-DeepLabV3-R50 (none),12,rider,0.0,True
-DeepLabV3-R50 (none),13,car,0.8067161440849304,True
-DeepLabV3-R50 (none),14,truck,0.0026528683956712484,True
-DeepLabV3-R50 (none),15,bus,0.1710289567708969,True
-DeepLabV3-R50 (none),16,train,0.011998211964964867,True
-DeepLabV3-R50 (none),17,motorcycle,0.0,True
-DeepLabV3-R50 (none),18,bicycle,0.5537773966789246,True
-DeepLabV3-R50 (imagenet),0,road,0.09866836667060852,True
-DeepLabV3-R50 (imagenet),1,sidewalk,1.329464703303529e-05,True
-DeepLabV3-R50 (imagenet),2,building,0.00037874100962653756,True
-DeepLabV3-R50 (imagenet),3,wall,0.0,True
-DeepLabV3-R50 (imagenet),4,fence,0.0,True
-DeepLabV3-R50 (imagenet),5,pole,0.0,True
-DeepLabV3-R50 (imagenet),6,traffic light,0.0,True
-DeepLabV3-R50 (imagenet),7,traffic sign,1.0821703654073644e-05,True
-DeepLabV3-R50 (imagenet),8,vegetation,0.13048362731933594,True
-DeepLabV3-R50 (imagenet),9,terrain,0.0,True
-DeepLabV3-R50 (imagenet),10,sky,0.3607792556285858,True
-DeepLabV3-R50 (imagenet),11,person,0.017566317692399025,True
-DeepLabV3-R50 (imagenet),12,rider,0.0,True
-DeepLabV3-R50 (imagenet),13,car,0.0014437779318541288,True
-DeepLabV3-R50 (imagenet),14,truck,0.0,True
-DeepLabV3-R50 (imagenet),15,bus,0.0,True
-DeepLabV3-R50 (imagenet),16,train,0.0,True
-DeepLabV3-R50 (imagenet),17,motorcycle,0.0,True
-DeepLabV3-R50 (imagenet),18,bicycle,0.0,True
-DeepLabV3-R50 (255),0,road,6.022820798534667e-06,True
-DeepLabV3-R50 (255),1,sidewalk,0.0,True
-DeepLabV3-R50 (255),2,building,0.0,True
-DeepLabV3-R50 (255),3,wall,0.0,True
-DeepLabV3-R50 (255),4,fence,0.0,True
-DeepLabV3-R50 (255),5,pole,0.0,True
-DeepLabV3-R50 (255),6,traffic light,0.0,True
-DeepLabV3-R50 (255),7,traffic sign,0.0,True
-DeepLabV3-R50 (255),8,vegetation,0.3304908871650696,True
-DeepLabV3-R50 (255),9,terrain,0.0,True
-DeepLabV3-R50 (255),10,sky,0.040546026080846786,True
-DeepLabV3-R50 (255),11,person,0.012229729443788528,True
-DeepLabV3-R50 (255),12,rider,0.0,True
-DeepLabV3-R50 (255),13,car,0.0006958370213396847,True
-DeepLabV3-R50 (255),14,truck,0.0,True
-DeepLabV3-R50 (255),15,bus,0.0,True
-DeepLabV3-R50 (255),16,train,0.0,True
-DeepLabV3-R50 (255),17,motorcycle,0.0,True
-DeepLabV3-R50 (255),18,bicycle,8.915058970160317e-06,True
-Mask2Former-Swin-S,0,road,0.9741299152374268,True
-Mask2Former-Swin-S,1,sidewalk,0.803354799747467,True
-Mask2Former-Swin-S,2,building,0.8820819854736328,True
-Mask2Former-Swin-S,3,wall,0.5494949221611023,True
-Mask2Former-Swin-S,4,fence,0.43248581886291504,True
-Mask2Former-Swin-S,5,pole,0.39148813486099243,True
-Mask2Former-Swin-S,6,traffic light,0.47578659653663635,True
-Mask2Former-Swin-S,7,traffic sign,0.6154376268386841,True
-Mask2Former-Swin-S,8,vegetation,0.8809902667999268,True
-Mask2Former-Swin-S,9,terrain,0.6178028583526611,True
-Mask2Former-Swin-S,10,sky,0.9199070930480957,True
-Mask2Former-Swin-S,11,person,0.6213494539260864,True
-Mask2Former-Swin-S,12,rider,0.37023627758026123,True
-Mask2Former-Swin-S,13,car,0.8953961133956909,True
-Mask2Former-Swin-S,14,truck,0.5454116463661194,True
-Mask2Former-Swin-S,15,bus,0.7927547693252563,True
-Mask2Former-Swin-S,16,train,0.613810658454895,True
-Mask2Former-Swin-S,17,motorcycle,0.2723783850669861,True
-Mask2Former-Swin-S,18,bicycle,0.6065638661384583,True
-Mask2Former-Swin-L,0,road,0.9681910872459412,True
-Mask2Former-Swin-L,1,sidewalk,0.7977229356765747,True
-Mask2Former-Swin-L,2,building,0.8805274963378906,True
-Mask2Former-Swin-L,3,wall,0.5793744921684265,True
-Mask2Former-Swin-L,4,fence,0.5040343403816223,True
-Mask2Former-Swin-L,5,pole,0.4015170931816101,True
-Mask2Former-Swin-L,6,traffic light,0.5083887577056885,True
-Mask2Former-Swin-L,7,traffic sign,0.6392444968223572,True
-Mask2Former-Swin-L,8,vegetation,0.8872223496437073,True
-Mask2Former-Swin-L,9,terrain,0.6519230604171753,True
-Mask2Former-Swin-L,10,sky,0.9232282042503357,True
-Mask2Former-Swin-L,11,person,0.6515414714813232,True
-Mask2Former-Swin-L,12,rider,0.4367876350879669,True
-Mask2Former-Swin-L,13,car,0.9101987481117249,True
-Mask2Former-Swin-L,14,truck,0.6696141362190247,True
-Mask2Former-Swin-L,15,bus,0.7966137528419495,True
-Mask2Former-Swin-L,16,train,0.6433036923408508,True
-Mask2Former-Swin-L,17,motorcycle,0.4356086850166321,True
-Mask2Former-Swin-L,18,bicycle,0.6274852156639099,True
+DeepLabV3+-R101,0,road,0.9803701043128967,True
+DeepLabV3+-R101,1,sidewalk,0.8432923555374146,True
+DeepLabV3+-R101,2,building,0.9210953116416931,True
+DeepLabV3+-R101,3,wall,0.48381930589675903,True
+DeepLabV3+-R101,4,fence,0.5681238174438477,True
+DeepLabV3+-R101,5,pole,0.6288931369781494,True
+DeepLabV3+-R101,6,traffic light,0.6887524724006653,True
+DeepLabV3+-R101,7,traffic sign,0.7779487371444702,True
+DeepLabV3+-R101,8,vegetation,0.9222097992897034,True
+DeepLabV3+-R101,9,terrain,0.6410812735557556,True
+DeepLabV3+-R101,10,sky,0.9506704211235046,True
+DeepLabV3+-R101,11,person,0.8118258714675903,True
+DeepLabV3+-R101,12,rider,0.6218312382698059,True
+DeepLabV3+-R101,13,car,0.9479218125343323,True
+DeepLabV3+-R101,14,truck,0.7945648431777954,True
+DeepLabV3+-R101,15,bus,0.8296262621879578,True
+DeepLabV3+-R101,16,train,0.673200249671936,True
+DeepLabV3+-R101,17,motorcycle,0.6334263682365417,True
+DeepLabV3+-R101,18,bicycle,0.7612892985343933,True
+PIDNet-M,0,road,0.9793970584869385,True
+PIDNet-M,1,sidewalk,0.8391822576522827,True
+PIDNet-M,2,building,0.9211385846138,True
+PIDNet-M,3,wall,0.5534358024597168,True
+PIDNet-M,4,fence,0.6039785742759705,True
+PIDNet-M,5,pole,0.6105757355690002,True
+PIDNet-M,6,traffic light,0.6824659109115601,True
+PIDNet-M,7,traffic sign,0.7684757113456726,True
+PIDNet-M,8,vegetation,0.916191816329956,True
+PIDNet-M,9,terrain,0.6361640691757202,True
+PIDNet-M,10,sky,0.9320551156997681,True
+PIDNet-M,11,person,0.8062297105789185,True
+PIDNet-M,12,rider,0.6072923541069031,True
+PIDNet-M,13,car,0.947397768497467,True
+PIDNet-M,14,truck,0.8024491667747498,True
+PIDNet-M,15,bus,0.8331790566444397,True
+PIDNet-M,16,train,0.7386723756790161,True
+PIDNet-M,17,motorcycle,0.5829207897186279,True
+PIDNet-M,18,bicycle,0.7729950547218323,True
+DDRNet-23,0,road,0.9817308783531189,True
+DDRNet-23,1,sidewalk,0.8522369265556335,True
+DDRNet-23,2,building,0.9283901453018188,True
+DDRNet-23,3,wall,0.5602442026138306,True
+DDRNet-23,4,fence,0.6329938769340515,True
+DDRNet-23,5,pole,0.6670147180557251,True
+DDRNet-23,6,traffic light,0.7329059839248657,True
+DDRNet-23,7,traffic sign,0.8067964315414429,True
+DDRNet-23,8,vegetation,0.927184522151947,True
+DDRNet-23,9,terrain,0.6470871567726135,True
+DDRNet-23,10,sky,0.9511445760726929,True
+DDRNet-23,11,person,0.8370755910873413,True
+DDRNet-23,12,rider,0.6758250594139099,True
+DDRNet-23,13,car,0.954205334186554,True
+DDRNet-23,14,truck,0.7954087257385254,True
+DDRNet-23,15,bus,0.9028477668762207,True
+DDRNet-23,16,train,0.8133703470230103,True
+DDRNet-23,17,motorcycle,0.6553844213485718,True
+DDRNet-23,18,bicycle,0.7850843071937561,True
