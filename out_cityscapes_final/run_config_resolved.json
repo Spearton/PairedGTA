@@ -1,0 +1,27 @@
+{
+  "data_dir": "/home/ace/Downloads/Dataset",
+  "save_dir": "out_cityscapes_final_notebook",
+  "device": "cuda",
+  "batch_size": 2,
+  "num_workers": 4,
+  "conf_threshold": 0.6,
+  "mass_coverage": 0.99,
+  "plot_scenarios": [
+    "Day-RAIN",
+    "Sunset-FOGGY",
+    "Night-RAIN"
+  ],
+  "drop_class_from_plot": "train",
+  "models": [
+    "SegFormer-B0",
+    "SegFormer-B2",
+    "SegFormer-B5",
+    "Mask2Former-Swin-S",
+    "Mask2Former-Swin-L",
+    "DeepLabV3+-R101",
+    "PIDNet-M",
+    "DDRNet-23"
+  ],
+  "qual_model_key": "segformer_b5",
+  "qual_samples_per_scenario": 6
+}
