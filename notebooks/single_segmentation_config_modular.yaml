@@ -1,0 +1,21 @@
+input:
+  image_path: "/home/ace/Downloads/test_image.png"
+
+models:
+  enabled:
+    - segformer_b0
+    - segformer_b2
+    - segformer_b5
+    - mask2former_swin_s
+    - mask2former_swin_l
+
+output:
+  save_dir: "./single_segmentation_outputs"
+
+visualization:
+  save_overlay: true
+  save_mask: true
+  save_panel: true
+
+inference:
+  device: "cuda"
