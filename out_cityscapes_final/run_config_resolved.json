@@ -1,6 +1,6 @@
 {
   "data_dir": "/home/ace/Downloads/Dataset",
-  "save_dir": "out_cityscapes_final_notebook",
+  "save_dir": "out_cityscapes_reference_metric_mixed_loader",
   "device": "cuda",
   "batch_size": 2,
   "num_workers": 4,
@@ -22,6 +22,9 @@
     "PIDNet-M",
     "DDRNet-23"
   ],
-  "qual_model_key": "segformer_b5",
-  "qual_samples_per_scenario": 6
+  "reference_model_key": "segformer_b5",
+  "reference_input_source": "raw",
+  "dataloader_mode": "random",
+  "metric_type": "reference_clean_vs_model_adverse",
+  "preprocessing_note": "Mixed-input pipeline. Dataloader returns pair_raw=RGB [0,1] and pair_repo=RGB ImageNet-normalized. SegFormer/Mask2Former use pair_raw and their HuggingFace processors. DeepLab/PIDNet/DDRNet use pair_repo and input_norm=none to avoid double normalization."
 }
