@@ -1,0 +1,1217 @@
+model,reference_model,sec_condition,class_id,class_name,retention_masked,mass_clean_masked,mass_reference_masked,metric_type,conf_threshold
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,0,road,0.9300138463070186,4871335.0,4871335.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,1,sidewalk,0.3553057112732663,478965.0,478965.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,2,building,0.8723035633619429,1505320.0,1505320.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,3,wall,0.20463208523183316,327671.0,327671.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,4,fence,0.43459955162905506,256038.0,256038.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,5,pole,0.43281594496869213,113390.0,113390.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,6,traffic light,0.4477172312223859,2716.0,2716.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,7,traffic sign,0.2084778147335645,14131.0,14131.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,8,vegetation,0.7830248421992154,2850271.0,2850271.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,9,terrain,0.09018742042383447,454753.0,454753.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,10,sky,0.7887133898337089,4713479.0,4713479.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,11,person,0.002261662897228505,26087.0,26087.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,12,rider,0.7275325261337143,13297.0,13297.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,13,car,0.9571039624696323,238740.0,238740.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,14,truck,0.14905787853764732,66605.0,66605.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,17,motorcycle,0.0,131.0,131.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-FOGGY,18,bicycle,0.17931583134447096,37710.0,37710.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,0,road,0.8146552068615528,7257366.0,7257366.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,1,sidewalk,0.3821018107653722,544245.0,544245.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,2,building,0.8581896587492359,3615230.0,3615230.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,3,wall,0.471500119246363,620564.0,620564.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,4,fence,0.2773366606170599,238032.0,238032.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,5,pole,0.36141325280786357,259628.0,259628.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,6,traffic light,0.2740950394756443,6713.0,6713.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,7,traffic sign,0.014158153004585311,24862.0,24862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,8,vegetation,0.8338616238740741,2518816.0,2518816.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,9,terrain,0.2244644287568907,253421.0,253421.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,10,sky,0.29254989306369356,5768387.0,5768387.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,11,person,0.5151925990908366,12539.0,12539.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,13,car,0.5598401876403825,150927.0,150927.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,14,truck,0.0,9061.0,9061.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,17,motorcycle,0.0,243.0,243.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-EXTRASUNNY,18,bicycle,0.0,5.0,5.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,0,road,0.9623955008077563,12919119.0,12919119.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,1,sidewalk,0.6206294714011295,1491982.0,1491982.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,2,building,0.8873332655346461,7355108.0,7355108.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,3,wall,0.42415199818690036,608902.0,608902.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,4,fence,0.6321371396520093,427885.0,427885.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,5,pole,0.5360662926855403,503947.0,503947.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,6,traffic light,0.12274742562929061,27968.0,27968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,7,traffic sign,0.6176255910634382,63022.0,63022.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,8,vegetation,0.8577930367063924,5790708.0,5790708.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,9,terrain,0.7091662156830192,927602.0,927602.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,10,sky,0.8887764000145202,11211973.0,11211973.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,11,person,0.055931718481785235,20972.0,20972.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,12,rider,0.009059419131361577,3753.0,3753.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,13,car,0.8230585862202038,1039101.0,1039101.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,14,truck,0.7300096419190744,120308.0,120308.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,16,train,0.0,192.0,192.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-FOGGY,18,bicycle,0.0,2187.0,2187.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,0,road,0.9725221832308167,9139336.0,9139336.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,1,sidewalk,0.43826739488878047,1102594.0,1102594.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,2,building,0.8171503499809113,4706971.0,4706971.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,3,wall,0.6229808656122608,581623.0,581623.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,4,fence,0.6921906115589905,675405.0,675405.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,5,pole,0.5282234873533339,394689.0,394689.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,6,traffic light,0.08314505196565748,4426.0,4426.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,7,traffic sign,0.7006157909187182,76487.0,76487.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,8,vegetation,0.9030058763703063,3572103.0,3572103.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,9,terrain,0.4012891630808578,289335.0,289335.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,10,sky,0.9780379078920763,9025825.0,9025825.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,11,person,0.576862213179609,35388.0,35388.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,12,rider,0.7817403708987162,11216.0,11216.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,13,car,0.8376767439245074,391244.0,391244.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,14,truck,0.14932721712538227,32700.0,32700.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,15,bus,0.0,1340.0,1340.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,16,train,0.39482683878425895,20761.0,20761.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,17,motorcycle,0.5749123722872698,13409.0,13409.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Day-RAIN,18,bicycle,0.0,1157.0,1157.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,0,road,0.9625724298264821,6887356.0,6887356.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,1,sidewalk,0.6722856370857145,392302.0,392302.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,2,building,0.8450774108997212,3601560.0,3601560.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,3,wall,0.644898152125436,486559.0,486559.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,4,fence,0.6117752373137391,214484.0,214484.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,5,pole,0.38119736830453993,225862.0,225862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,6,traffic light,0.4045313837844958,15183.0,15183.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,7,traffic sign,0.27529370506750833,11406.0,11406.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,8,vegetation,0.7493235007736376,1729492.0,1729492.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,9,terrain,0.5407659827611848,154651.0,154651.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,10,sky,0.9479211494226136,6706254.0,6706254.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,11,person,0.31023978754979303,25606.0,25606.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,12,rider,0.41855616366953347,3837.0,3837.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,13,car,0.6786194286547372,658481.0,658481.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,14,truck,0.14674453280318092,72432.0,72432.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,16,train,0.0,12.0,12.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,17,motorcycle,0.3087300557789597,15418.0,15418.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-RAIN,18,bicycle,0.0,20698.0,20698.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,0,road,0.9575720216404855,3956658.0,3956658.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,1,sidewalk,0.21051571115457574,610458.0,610458.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,2,building,0.9049044168090465,2071337.0,2071337.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,3,wall,0.22126879564657023,698300.0,698300.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,4,fence,0.46429450809666756,190881.0,190881.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,5,pole,0.20955109837631328,62820.0,62820.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,6,traffic light,0.0,168.0,168.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,7,traffic sign,0.0,3995.0,3995.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,8,vegetation,0.7556237738741919,4129878.0,4129878.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,9,terrain,0.6759629676728047,479689.0,479689.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,10,sky,0.5311571599798878,3046908.0,3046908.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,11,person,0.0,6862.0,6862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,13,car,0.7978468960959583,584087.0,584087.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,14,truck,0.058445508418036966,101924.0,101924.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-FOGGY,18,bicycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,0,road,0.9618015172981852,6288810.0,6288810.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,1,sidewalk,0.5266650310507036,705137.0,705137.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,2,building,0.7861534786939275,2411566.0,2411566.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,3,wall,0.6155280674142567,243984.0,243984.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,4,fence,0.34347602937017524,95471.0,95471.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,5,pole,0.5073299649390406,188814.0,188814.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,6,traffic light,0.32827306130342293,10342.0,10342.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,7,traffic sign,0.04962820619934832,23938.0,23938.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,8,vegetation,0.8752720460499044,3452081.0,3452081.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,9,terrain,0.059943813492750346,375535.0,375535.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,10,sky,0.8211724029070465,5289905.0,5289905.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,11,person,0.10785594327299869,5359.0,5359.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,12,rider,0.008830950378469302,2378.0,2378.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,13,car,0.9499211169367274,337208.0,337208.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,14,truck,0.0,45880.0,45880.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,16,train,0.0,4979.0,4979.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Sunset-EXTRASUNNY,18,bicycle,0.7990690457719162,1289.0,1289.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,0,road,0.9327107190080582,3847968.0,3847968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,1,sidewalk,0.28682607756173845,273047.0,273047.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,2,building,0.8011648770900117,1624034.0,1624034.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,3,wall,0.5562682560371296,321469.0,321469.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,4,fence,0.6586212487164884,240551.0,240551.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,5,pole,0.32030090945691797,181317.0,181317.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,6,traffic light,0.32201610080504023,8571.0,8571.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,7,traffic sign,0.22578438915961357,23394.0,23394.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,8,vegetation,0.8625500587515887,1042525.0,1042525.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,9,terrain,0.8183493835900039,74869.0,74869.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,10,sky,0.2596570673164157,3857900.0,3857900.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,11,person,0.6458990536277602,32968.0,32968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,12,rider,0.0,63.0,63.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,13,car,0.7242500098294911,839311.0,839311.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,14,truck,0.006612888096801426,21322.0,21322.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,15,bus,0.0,1204.0,1204.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B0,SegFormer-B5,Night-RAIN,18,bicycle,0.4993077988001846,2167.0,2167.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,0,road,0.9696376865889946,4871335.0,4871335.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,1,sidewalk,0.34340713830864467,478965.0,478965.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,2,building,0.8661261392926421,1505320.0,1505320.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,3,wall,0.3068107949742272,327671.0,327671.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,4,fence,0.32089377358048415,256038.0,256038.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,5,pole,0.6280007055295882,113390.0,113390.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,6,traffic light,0.727540500736377,2716.0,2716.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,7,traffic sign,0.27973957964758334,14131.0,14131.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,8,vegetation,0.8615552696568151,2850271.0,2850271.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,9,terrain,0.4640870978311303,454753.0,454753.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,10,sky,0.9165073186917774,4713479.0,4713479.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,11,person,0.744853758577069,26087.0,26087.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,12,rider,0.7039181770324133,13297.0,13297.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,13,car,0.9338234062159672,238740.0,238740.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,14,truck,0.743037309511298,66605.0,66605.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,17,motorcycle,0.0,131.0,131.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-FOGGY,18,bicycle,0.683081410766375,37710.0,37710.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,0,road,0.9712213770119903,7257366.0,7257366.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,1,sidewalk,0.5234774779740742,544245.0,544245.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,2,building,0.8668637956644529,3615230.0,3615230.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,3,wall,0.38419727860462416,620564.0,620564.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,4,fence,0.5944662902466895,238032.0,238032.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,5,pole,0.5060509652271712,259628.0,259628.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,6,traffic light,0.051392819901683304,6713.0,6713.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,7,traffic sign,0.0004022202558120827,24862.0,24862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,8,vegetation,0.7991306232769683,2518816.0,2518816.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,9,terrain,0.29218573046432617,253421.0,253421.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,10,sky,0.3970997438278673,5768387.0,5768387.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,11,person,0.7273307281282398,12539.0,12539.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,13,car,0.5189462455359214,150927.0,150927.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,14,truck,0.0,9061.0,9061.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,17,motorcycle,0.0,243.0,243.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-EXTRASUNNY,18,bicycle,0.0,5.0,5.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,0,road,0.9790664518222953,12919119.0,12919119.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,1,sidewalk,0.44869241049825,1491982.0,1491982.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,2,building,0.9028868100917077,7355108.0,7355108.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,3,wall,0.22747010192116301,608902.0,608902.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,4,fence,0.48106617432253995,427885.0,427885.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,5,pole,0.7351546888859344,503947.0,503947.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,6,traffic light,0.7057351258581236,27968.0,27968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,7,traffic sign,0.7016914728190156,63022.0,63022.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,8,vegetation,0.8431224644723927,5790708.0,5790708.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,9,terrain,0.4943025133624119,927602.0,927602.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,10,sky,0.9404952188165276,11211973.0,11211973.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,11,person,0.13847034140759107,20972.0,20972.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,12,rider,0.2728483879563016,3753.0,3753.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,13,car,0.835296087675789,1039101.0,1039101.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,14,truck,0.9235545433387639,120308.0,120308.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,16,train,0.2760416666666667,192.0,192.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-FOGGY,18,bicycle,0.0,2187.0,2187.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,0,road,0.9735502666714518,9139336.0,9139336.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,1,sidewalk,0.49846634391262784,1102594.0,1102594.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,2,building,0.853197098516222,4706971.0,4706971.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,3,wall,0.6958545311997634,581623.0,581623.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,4,fence,0.7035837756605297,675405.0,675405.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,5,pole,0.6630106235542415,394689.0,394689.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,6,traffic light,0.13352914595571622,4426.0,4426.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,7,traffic sign,0.7240446088877849,76487.0,76487.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,8,vegetation,0.881794561914928,3572103.0,3572103.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,9,terrain,0.6821539046434064,289335.0,289335.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,10,sky,0.9677909775560682,9025825.0,9025825.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,11,person,0.721233186390867,35388.0,35388.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,12,rider,0.882132667617689,11216.0,11216.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,13,car,0.9263043011522222,391244.0,391244.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,14,truck,0.1406422018348624,32700.0,32700.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,15,bus,0.0,1340.0,1340.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,16,train,0.6912480131014883,20761.0,20761.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,17,motorcycle,0.22745916921470655,13409.0,13409.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Day-RAIN,18,bicycle,0.0,1157.0,1157.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,0,road,0.9785451775688668,6887356.0,6887356.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,1,sidewalk,0.5404280375832904,392302.0,392302.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,2,building,0.8824067903908306,3601560.0,3601560.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,3,wall,0.5347778994942032,486559.0,486559.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,4,fence,0.55023218515134,214484.0,214484.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,5,pole,0.5781671994403662,225862.0,225862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,6,traffic light,0.7335177501152604,15183.0,15183.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,7,traffic sign,0.4365246361564089,11406.0,11406.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,8,vegetation,0.7758174076549645,1729492.0,1729492.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,9,terrain,0.6372283399396059,154651.0,154651.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,10,sky,0.9656726393005692,6706254.0,6706254.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,11,person,0.5132390845895494,25606.0,25606.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,12,rider,0.7904612978889758,3837.0,3837.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,13,car,0.7549663543822829,658481.0,658481.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,14,truck,0.16194499668654738,72432.0,72432.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,16,train,0.0,12.0,12.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,17,motorcycle,0.11447658580879491,15418.0,15418.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-RAIN,18,bicycle,0.46386124263213835,20698.0,20698.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,0,road,0.9744453526182956,3956658.0,3956658.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,1,sidewalk,0.3442136887386192,610458.0,610458.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,2,building,0.9532152421358765,2071337.0,2071337.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,3,wall,0.2480223399684949,698300.0,698300.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,4,fence,0.734279472550961,190881.0,190881.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,5,pole,0.48212352753900034,62820.0,62820.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,6,traffic light,0.0,168.0,168.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,7,traffic sign,0.0,3995.0,3995.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,8,vegetation,0.7620137931435262,4129878.0,4129878.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,9,terrain,0.7495001970026413,479689.0,479689.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,10,sky,0.46118458450337196,3046908.0,3046908.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,11,person,0.023608277470125328,6862.0,6862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,13,car,0.7986789639214706,584087.0,584087.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,14,truck,0.7251873945292571,101924.0,101924.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-FOGGY,18,bicycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,0,road,0.9698434202973217,6288810.0,6288810.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,1,sidewalk,0.5323816506579573,705137.0,705137.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,2,building,0.7852884805972551,2411566.0,2411566.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,3,wall,0.7255803659256345,243984.0,243984.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,4,fence,0.41078442668454296,95471.0,95471.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,5,pole,0.6714809283209932,188814.0,188814.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,6,traffic light,0.5570489267066332,10342.0,10342.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,7,traffic sign,0.4476146712340212,23938.0,23938.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,8,vegetation,0.9165694547723533,3452081.0,3452081.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,9,terrain,0.09453712703210088,375535.0,375535.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,10,sky,0.9393563778555569,5289905.0,5289905.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,11,person,0.41892144056727,5359.0,5359.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,12,rider,0.9327165685449958,2378.0,2378.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,13,car,0.960220398092572,337208.0,337208.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,14,truck,0.0,45880.0,45880.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,16,train,0.07752560755171721,4979.0,4979.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Sunset-EXTRASUNNY,18,bicycle,0.773467804499612,1289.0,1289.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,0,road,0.9910747698525559,3847968.0,3847968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,1,sidewalk,0.21469563847982215,273047.0,273047.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,2,building,0.8233066549099342,1624034.0,1624034.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,3,wall,0.45126901816349324,321469.0,321469.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,4,fence,0.7340231385444251,240551.0,240551.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,5,pole,0.3886618463795452,181317.0,181317.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,6,traffic light,0.4207210360518026,8571.0,8571.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,7,traffic sign,0.1024621697871249,23394.0,23394.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,8,vegetation,0.8503067072732069,1042525.0,1042525.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,9,terrain,0.4668153708477474,74869.0,74869.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,10,sky,0.04077347779880246,3857900.0,3857900.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,11,person,0.8058723610774085,32968.0,32968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,12,rider,0.0,63.0,63.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,13,car,0.8698313259328188,839311.0,839311.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,14,truck,0.0,21322.0,21322.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,15,bus,0.0,1204.0,1204.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B2,SegFormer-B5,Night-RAIN,18,bicycle,0.6488232579603138,2167.0,2167.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,0,road,0.9834137869803657,4871335.0,4871335.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,1,sidewalk,0.4389088973098243,478965.0,478965.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,2,building,0.9027263306140887,1505320.0,1505320.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,3,wall,0.3814496858129038,327671.0,327671.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,4,fence,0.8421367140815035,256038.0,256038.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,5,pole,0.7023723432401446,113390.0,113390.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,6,traffic light,0.41605301914580267,2716.0,2716.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,7,traffic sign,0.5082442856131909,14131.0,14131.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,8,vegetation,0.8978925161853031,2850271.0,2850271.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,9,terrain,0.3872607767293454,454753.0,454753.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,10,sky,0.9281346113985021,4713479.0,4713479.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,11,person,0.9098784835358608,26087.0,26087.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,12,rider,0.8576370609912011,13297.0,13297.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,13,car,0.934615062410991,238740.0,238740.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,14,truck,0.7856317093311312,66605.0,66605.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,17,motorcycle,0.0,131.0,131.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-FOGGY,18,bicycle,0.8074250861840361,37710.0,37710.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,0,road,0.9572340708736475,7257366.0,7257366.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,1,sidewalk,0.6775092100065228,544245.0,544245.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,2,building,0.9439991369843689,3615230.0,3615230.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,3,wall,0.8740758406868591,620564.0,620564.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,4,fence,0.7850583114875311,238032.0,238032.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,5,pole,0.6459665367371779,259628.0,259628.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,6,traffic light,0.350662892894384,6713.0,6713.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,7,traffic sign,0.13462311962030407,24862.0,24862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,8,vegetation,0.8760790784241484,2518816.0,2518816.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,9,terrain,0.47310996326271304,253421.0,253421.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,10,sky,0.4137953989564154,5768387.0,5768387.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,11,person,0.8901028790174655,12539.0,12539.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,13,car,0.8469193716167419,150927.0,150927.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,14,truck,0.17669131442445646,9061.0,9061.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,17,motorcycle,0.0,243.0,243.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-EXTRASUNNY,18,bicycle,0.0,5.0,5.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,0,road,0.9881346398310906,12919119.0,12919119.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,1,sidewalk,0.7741641655194231,1491982.0,1491982.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,2,building,0.9318174525785345,7355108.0,7355108.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,3,wall,0.6723774926014366,608902.0,608902.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,4,fence,0.7652032672330182,427885.0,427885.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,5,pole,0.870357398694704,503947.0,503947.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,6,traffic light,0.7462099542334096,27968.0,27968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,7,traffic sign,0.8720288153343277,63022.0,63022.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,8,vegetation,0.9092794870679026,5790708.0,5790708.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,9,terrain,0.877458220228072,927602.0,927602.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,10,sky,0.9806703958348811,11211973.0,11211973.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,11,person,0.8092695021934008,20972.0,20972.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,12,rider,0.7194244604316546,3753.0,3753.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,13,car,0.9676999637186375,1039101.0,1039101.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,14,truck,0.9419406855736941,120308.0,120308.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,16,train,0.0,192.0,192.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,17,motorcycle,0.7142857142857143,7.0,7.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-FOGGY,18,bicycle,0.5697302240512117,2187.0,2187.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,0,road,0.9696302882397584,9139336.0,9139336.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,1,sidewalk,0.621931554135067,1102594.0,1102594.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,2,building,0.9064198610953839,4706971.0,4706971.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,3,wall,0.8537059229088259,581623.0,581623.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,4,fence,0.8872380275538381,675405.0,675405.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,5,pole,0.7966829579745065,394689.0,394689.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,6,traffic light,0.25259828287392677,4426.0,4426.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,7,traffic sign,0.8800580490802359,76487.0,76487.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,8,vegetation,0.9387990771822649,3572103.0,3572103.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,9,terrain,0.452707069659737,289335.0,289335.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,10,sky,0.9875198112083937,9025825.0,9025825.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,11,person,0.8817395727365208,35388.0,35388.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,12,rider,0.8404065620542083,11216.0,11216.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,13,car,0.9190275122429993,391244.0,391244.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,14,truck,0.5271865443425077,32700.0,32700.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,15,bus,0.8619402985074627,1340.0,1340.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,16,train,0.43095226626848415,20761.0,20761.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,17,motorcycle,0.8987993138936535,13409.0,13409.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Day-RAIN,18,bicycle,0.9602420051858254,1157.0,1157.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,0,road,0.974416162022117,6887356.0,6887356.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,1,sidewalk,0.8198122874724064,392302.0,392302.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,2,building,0.9179052965936982,3601560.0,3601560.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,3,wall,0.7429931416333888,486559.0,486559.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,4,fence,0.6768150538035471,214484.0,214484.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,5,pole,0.5921846083006438,225862.0,225862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,6,traffic light,0.6619903839820852,15183.0,15183.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,7,traffic sign,0.6251095914431001,11406.0,11406.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,8,vegetation,0.8837491008920538,1729492.0,1729492.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,9,terrain,0.6643797970915157,154651.0,154651.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,10,sky,0.9898985335181161,6706254.0,6706254.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,11,person,0.932320549871124,25606.0,25606.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,12,rider,0.7438102684388845,3837.0,3837.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,13,car,0.9438115906153708,658481.0,658481.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,14,truck,0.17399768058316767,72432.0,72432.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,16,train,0.0,12.0,12.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,17,motorcycle,0.5654429887144895,15418.0,15418.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-RAIN,18,bicycle,0.7098270364286404,20698.0,20698.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,0,road,0.9486776466401695,3956658.0,3956658.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,1,sidewalk,0.6501053307516651,610458.0,610458.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,2,building,0.9766522782145058,2071337.0,2071337.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,3,wall,0.24643992553343835,698300.0,698300.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,4,fence,0.9226795752327366,190881.0,190881.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,5,pole,0.43939828080229226,62820.0,62820.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,6,traffic light,0.02976190476190476,168.0,168.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,7,traffic sign,0.00025031289111389235,3995.0,3995.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,8,vegetation,0.8049419377521564,4129878.0,4129878.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,9,terrain,0.736143626391266,479689.0,479689.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,10,sky,0.5897893864862346,3046908.0,3046908.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,11,person,0.013552900029146022,6862.0,6862.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,13,car,0.9306301972137713,584087.0,584087.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,14,truck,0.9568796358070719,101924.0,101924.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-FOGGY,18,bicycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,0,road,0.9754953639877815,6288810.0,6288810.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,1,sidewalk,0.874464111229449,705137.0,705137.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,2,building,0.9007644824980946,2411566.0,2411566.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,3,wall,0.6048265460030166,243984.0,243984.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,4,fence,0.5854971666788867,95471.0,95471.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,5,pole,0.8488300655671719,188814.0,188814.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,6,traffic light,0.7363179269000193,10342.0,10342.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,7,traffic sign,0.7291753697050715,23938.0,23938.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,8,vegetation,0.962977404064389,3452081.0,3452081.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,9,terrain,0.31349674464430743,375535.0,375535.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,10,sky,0.9852061615473245,5289905.0,5289905.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,11,person,0.7734651987311065,5359.0,5359.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,12,rider,0.9352396972245585,2378.0,2378.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,13,car,0.9776784655168324,337208.0,337208.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,14,truck,0.9960549258936355,45880.0,45880.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,16,train,0.2659168507732476,4979.0,4979.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Sunset-EXTRASUNNY,18,bicycle,0.7889837083010085,1289.0,1289.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,0,road,0.9854099618292044,3847968.0,3847968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,1,sidewalk,0.5112196801283295,273047.0,273047.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,2,building,0.9283364757141784,1624034.0,1624034.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,3,wall,0.8445697718909133,321469.0,321469.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,4,fence,0.8776517245823131,240551.0,240551.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,5,pole,0.5133550632317985,181317.0,181317.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,6,traffic light,0.23731186559327966,8571.0,8571.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,7,traffic sign,0.1389672565615115,23394.0,23394.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,8,vegetation,0.8433073547396945,1042525.0,1042525.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,9,terrain,0.8933737594999266,74869.0,74869.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,10,sky,0.01722491510925633,3857900.0,3857900.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,11,person,0.8471548167920407,32968.0,32968.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,12,rider,0.0,63.0,63.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,13,car,0.9281756107092604,839311.0,839311.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,14,truck,0.12949066691679956,21322.0,21322.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,15,bus,0.014950166112956811,1204.0,1204.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,17,motorcycle,1.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+SegFormer-B5,SegFormer-B5,Night-RAIN,18,bicycle,0.0,2167.0,2167.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,0,road,0.9592257563891623,4871335.0,4871335.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,1,sidewalk,0.6480661426200244,478965.0,478965.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,2,building,0.8295139903807828,1505320.0,1505320.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,3,wall,0.2703840132327853,327671.0,327671.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,4,fence,0.615935915762504,256038.0,256038.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,5,pole,0.6557103801040656,113390.0,113390.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,6,traffic light,0.6962444771723122,2716.0,2716.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,7,traffic sign,0.3267992357228788,14131.0,14131.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,8,vegetation,0.8624418520203868,2850271.0,2850271.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,9,terrain,0.5624020072434927,454753.0,454753.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,10,sky,0.969035398269516,4713479.0,4713479.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,11,person,0.8892935178441369,26087.0,26087.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,12,rider,0.6654884560427164,13297.0,13297.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,13,car,0.8847281561531373,238740.0,238740.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,14,truck,0.9335034907289242,66605.0,66605.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,17,motorcycle,0.0,131.0,131.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-FOGGY,18,bicycle,0.3223017767170512,37710.0,37710.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,0,road,0.9388389671955363,7257366.0,7257366.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,1,sidewalk,0.6583156482834017,544245.0,544245.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,2,building,0.8577365755429115,3615230.0,3615230.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,3,wall,0.5831227721878807,620564.0,620564.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,4,fence,0.6296296296296297,238032.0,238032.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,5,pole,0.5039132913245105,259628.0,259628.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,6,traffic light,0.34023536421868017,6713.0,6713.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,7,traffic sign,0.0612983669857614,24862.0,24862.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,8,vegetation,0.6815587164763127,2518816.0,2518816.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,9,terrain,0.5181259643044578,253421.0,253421.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,10,sky,0.7006837439998391,5768387.0,5768387.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,11,person,0.7658505462955578,12539.0,12539.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,13,car,0.5285866677267819,150927.0,150927.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,14,truck,0.027701136739874187,9061.0,9061.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,17,motorcycle,0.0,243.0,243.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-EXTRASUNNY,18,bicycle,0.0,5.0,5.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,0,road,0.9714565675879292,12919119.0,12919119.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,1,sidewalk,0.47385960420434026,1491982.0,1491982.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,2,building,0.8108695344786235,7355108.0,7355108.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,3,wall,0.3147304492348522,608902.0,608902.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,4,fence,0.3195648363462145,427885.0,427885.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,5,pole,0.6655719748306865,503947.0,503947.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,6,traffic light,0.618599828375286,27968.0,27968.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,7,traffic sign,0.6913300117419314,63022.0,63022.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,8,vegetation,0.8198612328578819,5790708.0,5790708.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,9,terrain,0.8204132806958156,927602.0,927602.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,10,sky,0.9755530092696442,11211973.0,11211973.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,11,person,0.18944306694640473,20972.0,20972.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,12,rider,0.0,3753.0,3753.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,13,car,0.942341504820032,1039101.0,1039101.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,14,truck,0.7869800844499119,120308.0,120308.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,16,train,0.0,192.0,192.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-FOGGY,18,bicycle,0.0,2187.0,2187.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,0,road,0.954888626482274,9139336.0,9139336.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,1,sidewalk,0.40037130621062694,1102594.0,1102594.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,2,building,0.8330956362382518,4706971.0,4706971.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,3,wall,0.23997675470192892,581623.0,581623.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,4,fence,0.6652438166729592,675405.0,675405.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,5,pole,0.6170630547088974,394689.0,394689.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,6,traffic light,0.1852688657930411,4426.0,4426.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,7,traffic sign,0.2873037248159818,76487.0,76487.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,8,vegetation,0.8810199481929832,3572103.0,3572103.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,9,terrain,0.7624103547790624,289335.0,289335.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,10,sky,0.9771904507344203,9025825.0,9025825.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,11,person,0.8318639086696055,35388.0,35388.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,12,rider,0.8105385164051355,11216.0,11216.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,13,car,0.8758575211377043,391244.0,391244.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,14,truck,0.7500917431192661,32700.0,32700.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,15,bus,0.0,1340.0,1340.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,16,train,0.34940513462742645,20761.0,20761.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,17,motorcycle,0.582742933850399,13409.0,13409.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Day-RAIN,18,bicycle,0.0,1157.0,1157.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,0,road,0.9528113546040019,6887356.0,6887356.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,1,sidewalk,0.5475220620848225,392302.0,392302.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,2,building,0.8789119159475338,3601560.0,3601560.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,3,wall,0.5243536755049234,486559.0,486559.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,4,fence,0.5220575893772962,214484.0,214484.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,5,pole,0.6141360653850582,225862.0,225862.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,6,traffic light,0.748995587169861,15183.0,15183.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,7,traffic sign,0.666052954585306,11406.0,11406.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,8,vegetation,0.7853097903893166,1729492.0,1729492.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,9,terrain,0.6959153190086065,154651.0,154651.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,10,sky,0.9727162138505342,6706254.0,6706254.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,11,person,0.4869561821448098,25606.0,25606.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,12,rider,0.6609330205890018,3837.0,3837.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,13,car,0.5661575656700801,658481.0,658481.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,14,truck,0.44396123260437376,72432.0,72432.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,16,train,0.0,12.0,12.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,17,motorcycle,0.4780127124140615,15418.0,15418.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-RAIN,18,bicycle,0.3811962508454923,20698.0,20698.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,0,road,0.9241984017825144,3956658.0,3956658.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,1,sidewalk,0.5317695893902611,610458.0,610458.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,2,building,0.9091818472802832,2071337.0,2071337.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,3,wall,0.7813876557353573,698300.0,698300.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,4,fence,0.7473975932649137,190881.0,190881.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,5,pole,0.4449219993632601,62820.0,62820.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,6,traffic light,0.0,168.0,168.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,7,traffic sign,0.0005006257822277847,3995.0,3995.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,8,vegetation,0.7018924045698203,4129878.0,4129878.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,9,terrain,0.8048256266039038,479689.0,479689.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,10,sky,0.445048554140788,3046908.0,3046908.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,11,person,0.05668901194986884,6862.0,6862.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,13,car,0.8842929221160546,584087.0,584087.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,14,truck,0.9569777481260547,101924.0,101924.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-FOGGY,18,bicycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,0,road,0.9695255541191418,6288810.0,6288810.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,1,sidewalk,0.4195184765513652,705137.0,705137.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,2,building,0.8335790934189651,2411566.0,2411566.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,3,wall,0.4183020198045774,243984.0,243984.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,4,fence,0.46584826806045815,95471.0,95471.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,5,pole,0.6360863071594267,188814.0,188814.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,6,traffic light,0.6784954554244826,10342.0,10342.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,7,traffic sign,0.44728047455927816,23938.0,23938.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,8,vegetation,0.8693220118531402,3452081.0,3452081.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,9,terrain,0.6474363241775067,375535.0,375535.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,10,sky,0.9625167181641259,5289905.0,5289905.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,11,person,0.4788206754991603,5359.0,5359.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,12,rider,0.0,2378.0,2378.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,13,car,0.9264252330905554,337208.0,337208.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,14,truck,0.9602441150828248,45880.0,45880.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,16,train,0.0,4979.0,4979.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Sunset-EXTRASUNNY,18,bicycle,0.712955779674166,1289.0,1289.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,0,road,0.9666792967093282,3847968.0,3847968.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,1,sidewalk,0.1431511791010339,273047.0,273047.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,2,building,0.8913889733835622,1624034.0,1624034.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,3,wall,0.6533164939698696,321469.0,321469.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,4,fence,0.8448312416078088,240551.0,240551.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,5,pole,0.3349217116982964,181317.0,181317.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,6,traffic light,0.5235095088087738,8571.0,8571.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,7,traffic sign,0.0007694280584765325,23394.0,23394.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,8,vegetation,0.8026982566365315,1042525.0,1042525.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,9,terrain,0.8450760661956217,74869.0,74869.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,10,sky,0.1813854687783509,3857900.0,3857900.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,11,person,0.7977129337539433,32968.0,32968.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,12,rider,0.0,63.0,63.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,13,car,0.38604045461098446,839311.0,839311.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,14,truck,0.8949441891004596,21322.0,21322.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,15,bus,0.0,1204.0,1204.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-S,SegFormer-B5,Night-RAIN,18,bicycle,0.1864328564836179,2167.0,2167.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,0,road,0.9698676030287385,4871335.0,4871335.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,1,sidewalk,0.3064127859029365,478965.0,478965.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,2,building,0.7855160364573646,1505320.0,1505320.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,3,wall,0.2630443341034147,327671.0,327671.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,4,fence,0.6869019442426515,256038.0,256038.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,5,pole,0.6198782961460446,113390.0,113390.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,6,traffic light,0.5596465390279823,2716.0,2716.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,7,traffic sign,0.4092420918547873,14131.0,14131.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,8,vegetation,0.859563529222309,2850271.0,2850271.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,9,terrain,0.6381354273638656,454753.0,454753.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,10,sky,0.9837841645205165,4713479.0,4713479.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,11,person,0.8690918848468586,26087.0,26087.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,12,rider,0.8577874708580883,13297.0,13297.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,13,car,0.9545363156572003,238740.0,238740.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,14,truck,0.35410254485398995,66605.0,66605.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,17,motorcycle,0.0,131.0,131.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-FOGGY,18,bicycle,0.40875099443118534,37710.0,37710.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,0,road,0.9662428489895646,7257366.0,7257366.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,1,sidewalk,0.5341877279534033,544245.0,544245.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,2,building,0.8836170866030654,3615230.0,3615230.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,3,wall,0.6747442648945153,620564.0,620564.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,4,fence,0.11040952476977885,238032.0,238032.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,5,pole,0.5628938327144992,259628.0,259628.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,6,traffic light,0.453746462088485,6713.0,6713.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,7,traffic sign,0.05039819805325396,24862.0,24862.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,8,vegetation,0.8217416436929097,2518816.0,2518816.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,9,terrain,0.6513035620568145,253421.0,253421.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,10,sky,0.9046919008728089,5768387.0,5768387.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,11,person,0.8385836191083819,12539.0,12539.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,13,car,0.28207676558866207,150927.0,150927.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,14,truck,0.0025383511753669574,9061.0,9061.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,17,motorcycle,0.9917695473251029,243.0,243.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-EXTRASUNNY,18,bicycle,0.0,5.0,5.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,0,road,0.9803520658026295,12919119.0,12919119.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,1,sidewalk,0.5345205237060501,1491982.0,1491982.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,2,building,0.8376579922415823,7355108.0,7355108.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,3,wall,0.437973598378721,608902.0,608902.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,4,fence,0.4206363859448216,427885.0,427885.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,5,pole,0.6720131283646892,503947.0,503947.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,6,traffic light,0.39541618993135014,27968.0,27968.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,7,traffic sign,0.7589889245025546,63022.0,63022.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,8,vegetation,0.788271658664191,5790708.0,5790708.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,9,terrain,0.8923245098652224,927602.0,927602.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,10,sky,0.9826984956171407,11211973.0,11211973.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,11,person,0.6398054548922373,20972.0,20972.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,12,rider,0.31041833200106583,3753.0,3753.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,13,car,0.9572601700893368,1039101.0,1039101.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,14,truck,0.7896565481929714,120308.0,120308.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,16,train,0.0,192.0,192.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-FOGGY,18,bicycle,0.0,2187.0,2187.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,0,road,0.9678262184473796,9139336.0,9139336.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,1,sidewalk,0.5163396499527478,1102594.0,1102594.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,2,building,0.8240807092289287,4706971.0,4706971.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,3,wall,0.4456340275401764,581623.0,581623.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,4,fence,0.7574536759425826,675405.0,675405.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,5,pole,0.5953066845034951,394689.0,394689.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,6,traffic light,0.12245820153637596,4426.0,4426.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,7,traffic sign,0.719494816112542,76487.0,76487.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,8,vegetation,0.8881804360064646,3572103.0,3572103.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,9,terrain,0.8402370954084366,289335.0,289335.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,10,sky,0.9820488431805403,9025825.0,9025825.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,11,person,0.8732338645868656,35388.0,35388.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,12,rider,0.7506241084165478,11216.0,11216.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,13,car,0.8563172853769003,391244.0,391244.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,14,truck,0.26755351681957185,32700.0,32700.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,15,bus,0.0,1340.0,1340.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,16,train,0.0,20761.0,20761.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,17,motorcycle,0.8854500708479379,13409.0,13409.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Day-RAIN,18,bicycle,0.0,1157.0,1157.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,0,road,0.9656554706915107,6887356.0,6887356.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,1,sidewalk,0.6517529862198,392302.0,392302.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,2,building,0.8600975688312842,3601560.0,3601560.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,3,wall,0.6020256536206298,486559.0,486559.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,4,fence,0.3359364801104045,214484.0,214484.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,5,pole,0.6079243077631474,225862.0,225862.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,6,traffic light,0.6707501811236251,15183.0,15183.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,7,traffic sign,0.5250745221813081,11406.0,11406.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,8,vegetation,0.8127779717974989,1729492.0,1729492.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,9,terrain,0.7620189976139824,154651.0,154651.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,10,sky,0.9801741777153087,6706254.0,6706254.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,11,person,0.5313988908849488,25606.0,25606.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,12,rider,0.5032577534532187,3837.0,3837.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,13,car,0.9019485755853244,658481.0,658481.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,14,truck,0.0016153081510934394,72432.0,72432.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,16,train,0.0,12.0,12.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,17,motorcycle,0.4639382539888442,15418.0,15418.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-RAIN,18,bicycle,0.0,20698.0,20698.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,0,road,0.970769017691193,3956658.0,3956658.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,1,sidewalk,0.5146349134584197,610458.0,610458.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,2,building,0.8708766366844217,2071337.0,2071337.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,3,wall,0.6410740369468709,698300.0,698300.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,4,fence,0.880967723345959,190881.0,190881.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,5,pole,0.5631645972620185,62820.0,62820.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,6,traffic light,0.0,168.0,168.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,7,traffic sign,0.0,3995.0,3995.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,8,vegetation,0.821556956404039,4129878.0,4129878.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,9,terrain,0.8474365682765291,479689.0,479689.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,10,sky,0.6384262340707366,3046908.0,3046908.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,11,person,0.03701544739143107,6862.0,6862.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,13,car,0.9520516635364252,584087.0,584087.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,14,truck,0.751275460146776,101924.0,101924.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-FOGGY,18,bicycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,0,road,0.9796327127071736,6288810.0,6288810.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,1,sidewalk,0.6173211730486416,705137.0,705137.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,2,building,0.8026195426540265,2411566.0,2411566.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,3,wall,0.6697816250245918,243984.0,243984.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,4,fence,0.5281080118570037,95471.0,95471.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,5,pole,0.696198375120489,188814.0,188814.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,6,traffic light,0.4528137690968865,10342.0,10342.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,7,traffic sign,0.4320327512741248,23938.0,23938.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,8,vegetation,0.9085670353621482,3452081.0,3452081.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,9,terrain,0.406955410281332,375535.0,375535.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,10,sky,0.97148436503113,5289905.0,5289905.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,11,person,0.6012315730546743,5359.0,5359.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,12,rider,0.9520605550883096,2378.0,2378.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,13,car,0.9393934900714099,337208.0,337208.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,14,truck,0.9290322580645162,45880.0,45880.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,16,train,0.3175336412934324,4979.0,4979.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Sunset-EXTRASUNNY,18,bicycle,0.682699767261443,1289.0,1289.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,0,road,0.9790013846268992,3847968.0,3847968.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,1,sidewalk,0.3853951883741627,273047.0,273047.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,2,building,0.880164454685062,1624034.0,1624034.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,3,wall,0.4401326410944757,321469.0,321469.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,4,fence,0.826327888888427,240551.0,240551.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,5,pole,0.5394199109846292,181317.0,181317.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,6,traffic light,0.5672616964181543,8571.0,8571.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,7,traffic sign,0.6016927417286484,23394.0,23394.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,8,vegetation,0.8704242104505887,1042525.0,1042525.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,9,terrain,0.9327492019393875,74869.0,74869.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,10,sky,0.39182456777003033,3857900.0,3857900.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,11,person,0.8381460810482892,32968.0,32968.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,12,rider,0.0,63.0,63.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,13,car,0.9678748401963039,839311.0,839311.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,14,truck,0.0,21322.0,21322.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,15,bus,0.0,1204.0,1204.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+Mask2Former-Swin-L,SegFormer-B5,Night-RAIN,18,bicycle,0.5805260729118598,2167.0,2167.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,0,road,0.9888504896501678,4871335.0,4871335.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,1,sidewalk,0.34376833380309624,478965.0,478965.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,2,building,0.8088107512024022,1505320.0,1505320.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,3,wall,0.17787353778637718,327671.0,327671.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,4,fence,0.47302744123919105,256038.0,256038.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,5,pole,0.6718670076726343,113390.0,113390.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,6,traffic light,0.6377025036818851,2716.0,2716.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,7,traffic sign,0.42516453188026326,14131.0,14131.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,8,vegetation,0.8372098653075445,2850271.0,2850271.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,9,terrain,0.10337260007080767,454753.0,454753.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,10,sky,0.9545418575111929,4713479.0,4713479.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,11,person,0.8393452677578871,26087.0,26087.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,12,rider,0.709332932240355,13297.0,13297.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,13,car,0.9025718354695484,238740.0,238740.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,14,truck,0.5021995345694767,66605.0,66605.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,17,motorcycle,0.0,131.0,131.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-FOGGY,18,bicycle,0.2681251657385309,37710.0,37710.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,0,road,0.9665736852736929,7257366.0,7257366.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,1,sidewalk,0.39417541732124317,544245.0,544245.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,2,building,0.8388199367675085,3615230.0,3615230.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,3,wall,0.3408367227232002,620564.0,620564.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,4,fence,0.3791885124689117,238032.0,238032.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,5,pole,0.5024381037484401,259628.0,259628.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,6,traffic light,0.5977953225085655,6713.0,6713.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,7,traffic sign,0.10614592550880862,24862.0,24862.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,8,vegetation,0.8559581168294945,2518816.0,2518816.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,9,terrain,0.16756701299418753,253421.0,253421.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,10,sky,0.6255252984933223,5768387.0,5768387.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,11,person,0.8671345402344685,12539.0,12539.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,13,car,0.7229190270793165,150927.0,150927.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,14,truck,0.0,9061.0,9061.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,17,motorcycle,0.0,243.0,243.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-EXTRASUNNY,18,bicycle,0.0,5.0,5.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,0,road,0.9739393994280879,12919119.0,12919119.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,1,sidewalk,0.5601816912000279,1491982.0,1491982.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,2,building,0.812830348650217,7355108.0,7355108.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,3,wall,0.32873598707181123,608902.0,608902.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,4,fence,0.46867265737289227,427885.0,427885.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,5,pole,0.6879155942986068,503947.0,503947.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,6,traffic light,0.8596967963386728,27968.0,27968.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,7,traffic sign,0.5572339817841389,63022.0,63022.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,8,vegetation,0.8538446421404775,5790708.0,5790708.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,9,terrain,0.3361409311321019,927602.0,927602.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,10,sky,0.943883471713676,11211973.0,11211973.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,11,person,0.6479591836734694,20972.0,20972.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,12,rider,0.037569944044764186,3753.0,3753.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,13,car,0.8456993112315357,1039101.0,1039101.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,14,truck,0.7304418658775809,120308.0,120308.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,16,train,0.0,192.0,192.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,17,motorcycle,1.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-FOGGY,18,bicycle,0.00823045267489712,2187.0,2187.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,0,road,0.9715432280857165,9139336.0,9139336.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,1,sidewalk,0.5071812471317638,1102594.0,1102594.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,2,building,0.828209479089631,4706971.0,4706971.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,3,wall,0.38341331068406853,581623.0,581623.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,4,fence,0.5796033491016501,675405.0,675405.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,5,pole,0.5239948415081241,394689.0,394689.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,6,traffic light,0.053999096249435156,4426.0,4426.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,7,traffic sign,0.47605475440270895,76487.0,76487.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,8,vegetation,0.8997750064877749,3572103.0,3572103.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,9,terrain,0.42032937598285725,289335.0,289335.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,10,sky,0.9602755426789241,9025825.0,9025825.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,11,person,0.8560528992878942,35388.0,35388.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,12,rider,0.6802781740370899,11216.0,11216.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,13,car,0.87813487235587,391244.0,391244.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,14,truck,0.0001529051987767584,32700.0,32700.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,15,bus,0.0,1340.0,1340.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,16,train,0.06695245893743076,20761.0,20761.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,17,motorcycle,0.7574763218733687,13409.0,13409.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Day-RAIN,18,bicycle,0.0,1157.0,1157.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,0,road,0.9764729745347852,6887356.0,6887356.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,1,sidewalk,0.6236394410428701,392302.0,392302.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,2,building,0.8025472295338687,3601560.0,3601560.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,3,wall,0.5626141947841885,486559.0,486559.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,4,fence,0.4831549206467615,214484.0,214484.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,5,pole,0.553143069662006,225862.0,225862.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,6,traffic light,0.7902917736942633,15183.0,15183.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,7,traffic sign,0.18525337541644749,11406.0,11406.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,8,vegetation,0.8684573273539282,1729492.0,1729492.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,9,terrain,0.42858436091586866,154651.0,154651.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,10,sky,0.9437258117572045,6706254.0,6706254.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,11,person,0.594782472857924,25606.0,25606.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,12,rider,0.7464164712014595,3837.0,3837.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,13,car,0.7711672774157493,658481.0,658481.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,14,truck,0.014592997570134747,72432.0,72432.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,16,train,0.0,12.0,12.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,17,motorcycle,0.7241535867168245,15418.0,15418.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-RAIN,18,bicycle,0.037056720456082715,20698.0,20698.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,0,road,0.9739080304640937,3956658.0,3956658.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,1,sidewalk,0.30813913487905803,610458.0,610458.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,2,building,0.8972311120788167,2071337.0,2071337.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,3,wall,0.15742231132750967,698300.0,698300.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,4,fence,0.1256122924754166,190881.0,190881.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,5,pole,0.3720630372492837,62820.0,62820.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,6,traffic light,0.18452380952380953,168.0,168.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,7,traffic sign,0.0,3995.0,3995.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,8,vegetation,0.8207242441544278,4129878.0,4129878.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,9,terrain,0.44314753934319945,479689.0,479689.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,10,sky,0.5720202250937672,3046908.0,3046908.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,11,person,0.00816088603905567,6862.0,6862.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,13,car,0.9134033114929796,584087.0,584087.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,14,truck,0.20223892311918684,101924.0,101924.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-FOGGY,18,bicycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,0,road,0.9786762519459167,6288810.0,6288810.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,1,sidewalk,0.5563415336310532,705137.0,705137.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,2,building,0.7545296292948234,2411566.0,2411566.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,3,wall,0.2563897632631648,243984.0,243984.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,4,fence,0.32646562830597775,95471.0,95471.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,5,pole,0.7149787621680596,188814.0,188814.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,6,traffic light,0.5327789595822858,10342.0,10342.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,7,traffic sign,0.5608655693875846,23938.0,23938.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,8,vegetation,0.9355945008242854,3452081.0,3452081.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,9,terrain,0.044863994035176484,375535.0,375535.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,10,sky,0.966017348137632,5289905.0,5289905.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,11,person,0.7174846053368166,5359.0,5359.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,12,rider,0.36038687973086625,2378.0,2378.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,13,car,0.8576635192522123,337208.0,337208.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,14,truck,0.3816695727986051,45880.0,45880.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,16,train,0.10785298252661177,4979.0,4979.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Sunset-EXTRASUNNY,18,bicycle,0.186966640806827,1289.0,1289.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,0,road,0.9826770908697785,3847968.0,3847968.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,1,sidewalk,0.32394789175489935,273047.0,273047.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,2,building,0.9069686964681773,1624034.0,1624034.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,3,wall,0.3754638860978819,321469.0,321469.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,4,fence,0.5277591862016786,240551.0,240551.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,5,pole,0.45883728497603643,181317.0,181317.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,6,traffic light,0.6625831291564578,8571.0,8571.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,7,traffic sign,0.04270325724544755,23394.0,23394.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,8,vegetation,0.8472736864823386,1042525.0,1042525.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,9,terrain,0.23424915519106707,74869.0,74869.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,10,sky,0.0862080406438736,3857900.0,3857900.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,11,person,0.7721730162581898,32968.0,32968.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,12,rider,0.0,63.0,63.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,13,car,0.6827159420048111,839311.0,839311.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,14,truck,0.0,21322.0,21322.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,15,bus,0.0,1204.0,1204.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,17,motorcycle,0.42857142857142855,7.0,7.0,reference_clean_vs_model_adverse,0.6
+DeepLabV3+-R101,SegFormer-B5,Night-RAIN,18,bicycle,0.3350253807106599,2167.0,2167.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,0,road,0.9397586082665225,4871335.0,4871335.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,1,sidewalk,0.19078847097387075,478965.0,478965.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,2,building,0.6982176547179337,1505320.0,1505320.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,3,wall,0.08096535854561435,327671.0,327671.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,4,fence,0.003163592904178286,256038.0,256038.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,5,pole,0.44383102566363875,113390.0,113390.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,6,traffic light,0.6461708394698086,2716.0,2716.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,7,traffic sign,0.28816078126105726,14131.0,14131.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,8,vegetation,0.7056378147902428,2850271.0,2850271.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,9,terrain,0.0004024162567371738,454753.0,454753.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,10,sky,0.5556539023511083,4713479.0,4713479.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,11,person,0.8642235596274006,26087.0,26087.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,12,rider,0.4753703842972099,13297.0,13297.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,13,car,0.6886822484711401,238740.0,238740.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,14,truck,0.917123339088657,66605.0,66605.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,17,motorcycle,0.0,131.0,131.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-FOGGY,18,bicycle,0.28255104746751525,37710.0,37710.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,0,road,0.7837185006240556,7257366.0,7257366.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,1,sidewalk,0.4052751977510129,544245.0,544245.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,2,building,0.7384985187664409,3615230.0,3615230.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,3,wall,0.15351518940834466,620564.0,620564.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,4,fence,0.10414566108758486,238032.0,238032.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,5,pole,0.32025821560078266,259628.0,259628.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,6,traffic light,0.34708774020557126,6713.0,6713.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,7,traffic sign,0.020714343174322258,24862.0,24862.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,8,vegetation,0.7284331209584186,2518816.0,2518816.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,9,terrain,0.023707585401367685,253421.0,253421.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,10,sky,0.06449948659824661,5768387.0,5768387.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,11,person,0.7880213733152563,12539.0,12539.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,13,car,0.17092369158599852,150927.0,150927.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,14,truck,0.06533495199205386,9061.0,9061.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,17,motorcycle,0.0,243.0,243.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-EXTRASUNNY,18,bicycle,0.0,5.0,5.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,0,road,0.9428745876557062,12919119.0,12919119.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,1,sidewalk,0.2577651741106796,1491982.0,1491982.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,2,building,0.7473426630853007,7355108.0,7355108.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,3,wall,0.21049692725594596,608902.0,608902.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,4,fence,0.34803510288979517,427885.0,427885.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,5,pole,0.49947712755508017,503947.0,503947.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,6,traffic light,0.677846109839817,27968.0,27968.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,7,traffic sign,0.29527783948462444,63022.0,63022.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,8,vegetation,0.8213327282259786,5790708.0,5790708.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,9,terrain,0.1940821602368257,927602.0,927602.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,10,sky,0.9342015004852402,11211973.0,11211973.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,11,person,0.6076196833873736,20972.0,20972.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,12,rider,0.17159605648814283,3753.0,3753.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,13,car,0.5265888493996252,1039101.0,1039101.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,14,truck,0.7248728264122086,120308.0,120308.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,16,train,0.0,192.0,192.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-FOGGY,18,bicycle,0.00823045267489712,2187.0,2187.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,0,road,0.9372738894816867,9139336.0,9139336.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,1,sidewalk,0.18381652720765757,1102594.0,1102594.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,2,building,0.7446211162125281,4706971.0,4706971.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,3,wall,0.508324120607335,581623.0,581623.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,4,fence,0.4116626320503994,675405.0,675405.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,5,pole,0.40935521385191886,394689.0,394689.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,6,traffic light,0.10009037505648441,4426.0,4426.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,7,traffic sign,0.53707165923621,76487.0,76487.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,8,vegetation,0.8688274106317763,3572103.0,3572103.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,9,terrain,0.09366996733889782,289335.0,289335.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,10,sky,0.8372755953056923,9025825.0,9025825.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,11,person,0.8348875324968916,35388.0,35388.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,12,rider,0.6358773181169758,11216.0,11216.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,13,car,0.6228287206960362,391244.0,391244.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,14,truck,0.044311926605504585,32700.0,32700.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,15,bus,0.0,1340.0,1340.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,16,train,0.43962236886469824,20761.0,20761.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,17,motorcycle,0.6508315310612275,13409.0,13409.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Day-RAIN,18,bicycle,0.0,1157.0,1157.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,0,road,0.9128494301732043,6887356.0,6887356.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,1,sidewalk,0.13378978440079325,392302.0,392302.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,2,building,0.777500583080665,3601560.0,3601560.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,3,wall,0.37611266054065384,486559.0,486559.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,4,fence,0.21912123981275994,214484.0,214484.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,5,pole,0.35599171175319444,225862.0,225862.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,6,traffic light,0.7259434894289666,15183.0,15183.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,7,traffic sign,0.05917937927406628,11406.0,11406.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,8,vegetation,0.8605180018178749,1729492.0,1729492.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,9,terrain,0.04653704146756245,154651.0,154651.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,10,sky,0.8200739190612225,6706254.0,6706254.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,11,person,0.5331953448410529,25606.0,25606.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,12,rider,0.21032056293979673,3837.0,3837.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,13,car,0.5156397830765048,658481.0,658481.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,14,truck,0.251725756571681,72432.0,72432.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,16,train,0.0,12.0,12.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,17,motorcycle,0.4974704890387858,15418.0,15418.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-RAIN,18,bicycle,0.0,20698.0,20698.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,0,road,0.7790243685453734,3956658.0,3956658.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,1,sidewalk,0.13563259061229438,610458.0,610458.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,2,building,0.4983814801743994,2071337.0,2071337.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,3,wall,0.0911742803952456,698300.0,698300.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,4,fence,0.017277780397210826,190881.0,190881.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,5,pole,0.05318369945877109,62820.0,62820.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,6,traffic light,0.0,168.0,168.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,7,traffic sign,0.0,3995.0,3995.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,8,vegetation,0.5888931828010415,4129878.0,4129878.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,9,terrain,0.02061752510480749,479689.0,479689.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,10,sky,0.053186377796769706,3046908.0,3046908.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,11,person,0.0,6862.0,6862.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,13,car,0.5693466897910756,584087.0,584087.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,14,truck,0.34594403673325225,101924.0,101924.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-FOGGY,18,bicycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,0,road,0.8309459182261827,6288810.0,6288810.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,1,sidewalk,0.14928588345243549,705137.0,705137.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,2,building,0.7282446343993902,2411566.0,2411566.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,3,wall,0.394964423896649,243984.0,243984.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,4,fence,0.2585392422829969,95471.0,95471.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,5,pole,0.5628290275085533,188814.0,188814.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,6,traffic light,0.5842196867143686,10342.0,10342.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,7,traffic sign,0.18042442977692372,23938.0,23938.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,8,vegetation,0.9397548898765701,3452081.0,3452081.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,9,terrain,0.03138988376582742,375535.0,375535.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,10,sky,0.3527951825221814,5289905.0,5289905.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,11,person,0.6913603284194813,5359.0,5359.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,12,rider,0.36038687973086625,2378.0,2378.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,13,car,0.7751832696733174,337208.0,337208.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,14,truck,0.8382301656495205,45880.0,45880.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,16,train,0.032536653946575615,4979.0,4979.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Sunset-EXTRASUNNY,18,bicycle,0.0,1289.0,1289.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,0,road,0.7588329736629826,3847968.0,3847968.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,1,sidewalk,0.1739077887689665,273047.0,273047.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,2,building,0.8375126382822035,1624034.0,1624034.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,3,wall,0.08003260034404562,321469.0,321469.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,4,fence,0.04853856354785472,240551.0,240551.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,5,pole,0.2684469740840627,181317.0,181317.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,6,traffic light,0.24221211060553027,8571.0,8571.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,7,traffic sign,0.00273574420791656,23394.0,23394.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,8,vegetation,0.8119239346778254,1042525.0,1042525.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,9,terrain,0.10060238550000668,74869.0,74869.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,10,sky,9.072293216516758e-05,3857900.0,3857900.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,11,person,0.6767471487503033,32968.0,32968.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,12,rider,0.0,63.0,63.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,13,car,0.12171650317939357,839311.0,839311.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,14,truck,0.19125785573585968,21322.0,21322.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,15,bus,0.0,1204.0,1204.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+PIDNet-M,SegFormer-B5,Night-RAIN,18,bicycle,0.0,2167.0,2167.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,0,road,0.15939798843643477,4871335.0,4871335.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,1,sidewalk,0.03834726963348053,478965.0,478965.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,2,building,0.9294375946642575,1505320.0,1505320.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,3,wall,0.00012817734862102535,327671.0,327671.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,4,fence,0.0,256038.0,256038.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,5,pole,0.13189875650410088,113390.0,113390.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,6,traffic light,0.46649484536082475,2716.0,2716.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,7,traffic sign,0.2643125044229,14131.0,14131.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,8,vegetation,0.5628977034113598,2850271.0,2850271.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,9,terrain,0.0,454753.0,454753.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,10,sky,0.020112320432529772,4713479.0,4713479.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,11,person,0.03430827615287308,26087.0,26087.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,12,rider,0.7567120403098443,13297.0,13297.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,13,car,0.8912373293122225,238740.0,238740.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,14,truck,0.03176938668268148,66605.0,66605.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,17,motorcycle,0.0,131.0,131.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-FOGGY,18,bicycle,0.0,37710.0,37710.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,0,road,0.3421137916979797,7257366.0,7257366.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,1,sidewalk,0.04875377816975811,544245.0,544245.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,2,building,0.7877180704962063,3615230.0,3615230.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,3,wall,0.11922219142586421,620564.0,620564.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,4,fence,0.041763292330442965,238032.0,238032.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,5,pole,0.14610134500130956,259628.0,259628.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,6,traffic light,0.009831669894235066,6713.0,6713.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,7,traffic sign,0.001930657227897997,24862.0,24862.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,8,vegetation,0.7521712582419676,2518816.0,2518816.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,9,terrain,0.01671526826900691,253421.0,253421.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,10,sky,0.00013608656978111907,5768387.0,5768387.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,11,person,0.46056304330488873,12539.0,12539.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,13,car,0.27564981746142175,150927.0,150927.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,14,truck,0.0,9061.0,9061.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,17,motorcycle,0.0,243.0,243.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-EXTRASUNNY,18,bicycle,0.0,5.0,5.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,0,road,0.6283136644224734,12919119.0,12919119.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,1,sidewalk,0.062423675352651704,1491982.0,1491982.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,2,building,0.938122866448732,7355108.0,7355108.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,3,wall,0.0016439427034235395,608902.0,608902.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,4,fence,0.05592156771095037,427885.0,427885.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,5,pole,0.36644329661650926,503947.0,503947.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,6,traffic light,0.7040188787185355,27968.0,27968.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,7,traffic sign,0.6952492780298943,63022.0,63022.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,8,vegetation,0.7398338855974088,5790708.0,5790708.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,9,terrain,0.0493951069531976,927602.0,927602.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,10,sky,0.7101306790517601,11211973.0,11211973.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,11,person,0.47754148388327294,20972.0,20972.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,12,rider,0.028244071409539037,3753.0,3753.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,13,car,0.7385374472741341,1039101.0,1039101.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,14,truck,0.22511387438906805,120308.0,120308.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,16,train,0.0,192.0,192.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-FOGGY,18,bicycle,0.0054869684499314125,2187.0,2187.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,0,road,0.5625391166272911,9139336.0,9139336.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,1,sidewalk,0.13821406610230058,1102594.0,1102594.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,2,building,0.938340389180218,4706971.0,4706971.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,3,wall,0.00511327784492704,581623.0,581623.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,4,fence,0.006091160118743569,675405.0,675405.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,5,pole,0.2695134650319619,394689.0,394689.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,6,traffic light,0.1211025756891098,4426.0,4426.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,7,traffic sign,0.0986049916979356,76487.0,76487.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,8,vegetation,0.8481166416533902,3572103.0,3572103.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,9,terrain,0.002436621908859972,289335.0,289335.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,10,sky,0.6619127891356191,9025825.0,9025825.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,11,person,0.6230925737538149,35388.0,35388.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,12,rider,0.7517831669044223,11216.0,11216.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,13,car,0.7436024578012698,391244.0,391244.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,14,truck,0.0,32700.0,32700.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,15,bus,0.0,1340.0,1340.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,16,train,0.0,20761.0,20761.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,17,motorcycle,0.5304646133194123,13409.0,13409.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Day-RAIN,18,bicycle,0.0,1157.0,1157.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,0,road,0.2944651038802118,6887356.0,6887356.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,1,sidewalk,0.0026994509332096193,392302.0,392302.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,2,building,0.9640380834971513,3601560.0,3601560.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,3,wall,0.00010687295888062908,486559.0,486559.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,4,fence,0.009651069543648944,214484.0,214484.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,5,pole,0.22515518325349107,225862.0,225862.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,6,traffic light,0.7145491668313245,15183.0,15183.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,7,traffic sign,0.23101876205505875,11406.0,11406.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,8,vegetation,0.5846196455375335,1729492.0,1729492.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,9,terrain,0.010048431629928032,154651.0,154651.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,10,sky,0.023206398087516518,6706254.0,6706254.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,11,person,0.11489494649691478,25606.0,25606.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,12,rider,0.009903570497784727,3837.0,3837.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,13,car,0.5793470122904077,658481.0,658481.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,14,truck,0.0,72432.0,72432.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,16,train,0.0,12.0,12.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,17,motorcycle,0.4557011285510442,15418.0,15418.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-RAIN,18,bicycle,0.0,20698.0,20698.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,0,road,0.13099438970969945,3956658.0,3956658.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,1,sidewalk,0.05910971762185113,610458.0,610458.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,2,building,0.6332692362469265,2071337.0,2071337.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,3,wall,0.0,698300.0,698300.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,4,fence,0.0018440808671371168,190881.0,190881.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,5,pole,0.0030563514804202484,62820.0,62820.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,6,traffic light,0.0,168.0,168.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,7,traffic sign,0.0,3995.0,3995.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,8,vegetation,0.5071326562189005,4129878.0,4129878.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,9,terrain,0.0042965337958552315,479689.0,479689.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,10,sky,4.2666204558851135e-05,3046908.0,3046908.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,11,person,0.0,6862.0,6862.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,12,rider,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,13,car,0.6035282415119665,584087.0,584087.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,14,truck,0.4088929005925984,101924.0,101924.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-FOGGY,18,bicycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,0,road,0.10901871737260309,6288810.0,6288810.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,1,sidewalk,0.01425254950456436,705137.0,705137.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,2,building,0.924741433574698,2411566.0,2411566.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,3,wall,0.0,243984.0,243984.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,4,fence,0.19170219228875784,95471.0,95471.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,5,pole,0.1636796000296588,188814.0,188814.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,6,traffic light,0.49062076967704504,10342.0,10342.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,7,traffic sign,0.2460105271952544,23938.0,23938.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,8,vegetation,0.7387375904563074,3452081.0,3452081.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,9,terrain,0.00543491285765641,375535.0,375535.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,10,sky,0.0057375321484979406,5289905.0,5289905.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,11,person,0.3636872550849039,5359.0,5359.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,12,rider,0.6576955424726662,2378.0,2378.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,13,car,0.925114469407606,337208.0,337208.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,14,truck,0.21961639058413251,45880.0,45880.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,15,bus,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,16,train,0.0,4979.0,4979.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,17,motorcycle,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Sunset-EXTRASUNNY,18,bicycle,0.0,1289.0,1289.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,0,road,0.29944193922610585,3847968.0,3847968.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,1,sidewalk,0.007863115141349292,273047.0,273047.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,2,building,0.9372026694022416,1624034.0,1624034.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,3,wall,0.0584970868108589,321469.0,321469.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,4,fence,0.0,240551.0,240551.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,5,pole,0.10173894339747513,181317.0,181317.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,6,traffic light,0.2495624781239062,8571.0,8571.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,7,traffic sign,0.0,23394.0,23394.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,8,vegetation,0.6996637970312463,1042525.0,1042525.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,9,terrain,0.0,74869.0,74869.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,10,sky,0.0,3857900.0,3857900.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,11,person,0.6125030332443582,32968.0,32968.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,12,rider,0.0,63.0,63.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,13,car,0.3557155809944109,839311.0,839311.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,14,truck,0.02087046243316762,21322.0,21322.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,15,bus,0.0,1204.0,1204.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,16,train,0.0,0.0,0.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,17,motorcycle,0.0,7.0,7.0,reference_clean_vs_model_adverse,0.6
+DDRNet-23,SegFormer-B5,Night-RAIN,18,bicycle,0.0,2167.0,2167.0,reference_clean_vs_model_adverse,0.6
