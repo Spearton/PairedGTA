@@ -1,0 +1,24 @@
+data_dir: /home/ace/Downloads/Dataset
+save_dir: ./single_segmentation_outputs_mixed_ddrnet
+device: cuda
+selection:
+  image_name: null
+  location_id: '878'
+  illumination: Day
+  weather: EXTRASUNNY
+  pick_index: 0
+model:
+  key: ddrnet23_official
+  name: DDRNet-23
+  type: ddrnet_official
+  checkpoint_path: /home/ace/Downloads/models_weights/ddrnet23_cityscapes.pth
+  input_source: repo
+  input_norm: none
+export:
+  preview_figsize:
+  - 12
+  - 5
+  preview_dpi: 200
+  save_png_too: true
+  save_raw_prediction_npy: true
+  save_confidence_npy: false

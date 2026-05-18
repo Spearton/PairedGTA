@@ -1,0 +1,21 @@
+{
+  "image_path": "/home/ace/Downloads/Dataset/Day/878_Day_EXTRASUNNY.png",
+  "model_name": "DDRNet-23",
+  "model_key": "ddrnet23_official",
+  "model_type": "ddrnet_official",
+  "model_id": null,
+  "checkpoint_path": "/home/ace/Downloads/models_weights/ddrnet23_cityscapes.pth",
+  "input_source": "repo",
+  "input_norm": "none",
+  "device": "cuda",
+  "prediction_shape": [
+    950,
+    1916
+  ],
+  "confidence_mean": 0.8449803590774536,
+  "outputs": {
+    "segmentation_png": "./single_segmentation_outputs_mixed_ddrnet/878_Day_EXTRASUNNY__DDRNet-23__segmentation.png",
+    "preview_pdf": "./single_segmentation_outputs_mixed_ddrnet/878_Day_EXTRASUNNY__DDRNet-23__preview.pdf",
+    "preview_png": "./single_segmentation_outputs_mixed_ddrnet/878_Day_EXTRASUNNY__DDRNet-23__preview.png"
+  }
+}
