@@ -30,11 +30,11 @@ Unlike standard evaluation, we measure **prediction consistency** rather than ab
 	├── notebooks/
 	│   ├── plot_benchmarks_notebook.ipynb
 	│   ├── plot_mirror_ranking_from_csv.ipynb
-	│   ├── run_benchmarks_notebook_local_ckpts.ipynb
+	│   ├── run_benchmarks_reference_metric.ipynb
 	│   ├── extract_single_segmentation.ipynb
 	│   ├── single_segmentation_config.yaml
 	│   ├── benchmark_models.py
-	│   └── benchmark_config.yaml
+	│   └── benchmark_config_reference_metric...yaml
 	│
 	├── out_cityscapes_final/
 	│   ├── *.csv
@@ -82,7 +82,7 @@ Expected structure:
 
 Use:
 
-	notebooks/run_benchmarks_notebook_modular.ipynb
+	notebooks/run_benchmarks_reference_metric.ipynb
 	notebooks/plot_benchmarks_notebook.ipynb
 	notebooks/extract_single_segmentation.ipynb
 	notebooks/plot_mirror_ranking_from_csv.ipynb
@@ -97,7 +97,7 @@ Agreement = (1 / |A|) * Σ 1[p_clean == p_adv]
 
 Class Retention:
 
-Retention_k = (# pixels preserved) / (# pixels in clean prediction)
+Reference-based Retention_k = 
 
 ---
 
